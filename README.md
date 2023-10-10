@@ -14,5 +14,13 @@ administrator(http://localhost/woodyauto/admin/).
 user: admin password: admin@123 
 8) When a user is logged in as administrator. Dashboard tab gives an overview of the Total 
 Categories available, Employees, Services and Finished requests. 
-9) Further, there are individual tabs available for each of the categories like services requests
+9) Further, there are individual tabs available for each of the categories like services requests reports, Categories list, service list and user list
+10) 10) Under the Service requests tab, administrator can view all the service requests and the status for 
+each service request, and he can update the status of each service request. 
+11) Under the Reports tab, admin can get the details of all the service requests and their details. 
+12) Under the User list tab admin has access to view all the employees and users available. 
+13) All the services offered by the company can be accessed under the Service list Tab. 
+14) Vehicle categories are available under the Categories tab. 
+15) All CRUD operations can be performed for Service requests, Employees (Mechanic List), Category 
+list, Service List and User List.  
     
